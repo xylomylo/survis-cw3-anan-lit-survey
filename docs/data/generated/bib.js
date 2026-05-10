@@ -167,7 +167,7 @@
         "file": "PDF:/Users/anan/Zotero/storage/8KVBEBAE/Zhang et al. - 2026 - A comprehensive review of sEMG-IMU sensor fusion for upper limb movements pattern recognition.pdf:application/pdf",
         "issn": "15662535",
         "journal": "Information Fusion",
-        "keywords": "type:category_c, type:survey",
+        "keywords": "type:category_c, type:review",
         "langid": "english",
         "pages": "103422",
         "shortjournal": "Information Fusion",
