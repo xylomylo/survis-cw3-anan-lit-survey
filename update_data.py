@@ -5,7 +5,7 @@ import time
 #testing
 BASE_DIR = os.path.dirname(__file__)
 
-DATA_DIR = os.path.join(BASE_DIR, "src/data/")
+DATA_DIR = os.path.join(BASE_DIR, "docs/data/")
 PAPERS_DIR = os.path.join(DATA_DIR, "papers_pdf/")
 PAPERS_IMG_DIR = os.path.join(DATA_DIR, "papers_img/")
 
