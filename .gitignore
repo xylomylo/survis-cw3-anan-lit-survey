@@ -13,3 +13,4 @@ bin-release/
 electron/node_modules/
 
 electron/survis-electron-win32-x64/
+src/data/.DS_Store
