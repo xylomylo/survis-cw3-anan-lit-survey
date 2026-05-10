@@ -10,5 +10,14 @@ const userDefinedAuthorizedTags = {
 	},
 	"type:category_c": {
 		"description": "sEMG-IMU Fusion and Cross-Subject Generalisation"
+	},
+	"type:supervisor_provided": {
+		"description": "Supervisor Provided"
+	},
+	"type:survey": {
+		"description": "Survey"
+	},
+	"type:core_papers": {
+		"description": "Core Papers"
 	}
 }
