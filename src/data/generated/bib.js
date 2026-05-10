@@ -16,7 +16,8 @@
         "type": "article",
         "url": "https://www.mdpi.com/1424-8220/22/4/1321",
         "urldate": "2026-05-10",
-        "volume": "22"
+        "volume": "22",
+        "year": "2022"
     },
     "digo_narrative_2022": {
         "abstract": "Industry 4.0 has promoted the concept of automation, supporting workers with robots while maintaining their central role in the factory. To guarantee ...",
@@ -35,7 +36,8 @@
         "type": "article",
         "url": "https://www.mdpi.com/2218-6581/11/6/138",
         "urldate": "2026-05-09",
-        "volume": "11"
+        "volume": "11",
+        "year": "2022"
     },
     "li_semg_2023": {
         "abstract": "Interfaces based on surface electromyography ({sEMG}) and inertial measurement units ({IMUs}) enable users to interact with computers in a natural and intuitive way through hand gestures. {sEMG} or {IMU} sensor-based approaches can provide muscle electrical activity or motion information to recognize gestures. However, the existing methods recognize static and dynamic gestures separately and hierarchically. In addition, the variability in {sEMG} data among different subjects limits the performance of sensor-based human\u2013computer interfaces. To address these limitations, this article proposes a multistream convolutional neural network ({CNN}) architecture with a fine-tuning transfer strategy. The multistream architecture explores the complementary nature of {sEMG} and {IMU} signals and achieves real-time recognition of dynamic and static gestures in a nonhierarchical way. In addition, a new dataset including seven static gestures and six dynamic gestures is designed for evaluation. The proposed method is verified by experiments on six subjects and is compared with previous methods on the same dataset. Experimental results reveal that the transfer strategy significantly improves recognition accuracy from 89.99\\% to 98.49\\%. Meanwhile, by learning the fusion features of {sEMG} and {IMU} signals, the recognition accuracy is enhanced from 49.54\\% ({sEMG}) and 59.91\\% ({IMU}) to 89.99\\%. In addition, the accuracy and latency of this method for real-time recognition are 98.12\\% and 103 ms, respectively. These results demonstrate that the proposed multistream {CNN} model accurately recognizes these static and dynamic gestures online in a nonhierarchical way and can effectively utilize the complementarity between {sEMG} and {IMU} signals.",
@@ -52,7 +54,8 @@
         "type": "article",
         "url": "https://ieeexplore.ieee.org/document/10305519",
         "urldate": "2026-05-10",
-        "volume": "23"
+        "volume": "23",
+        "year": "2023"
     },
     "mu_recent_2025": {
         "abstract": "Wearable sensors have emerged as a transformative technology, enabling real-time monitoring and advanced functionality in various fields, including he\u2026",
@@ -70,7 +73,8 @@
         "type": "article",
         "url": "https://www.sciencedirect.com/org/science/article/pii/S2046206925006163",
         "urldate": "2026-05-09",
-        "volume": "15"
+        "volume": "15",
+        "year": "2025"
     },
     "raez_techniques_2006": {
         "abstract": "Electromyography ({EMG}) signals can be used for clinical/biomedical applications, Evolvable Hardware Chip ({EHW}) development, and modern human computer interaction. {EMG} signals acquired from muscles require advanced methods for detection, decomposition, processing, and classification. The purpose of this paper is to illustrate the various methodologies and algorithms for {EMG} signal analysis to provide efficient and effective ways of understanding the signal and its nature. We further point up some of the hardware implementations using {EMG} focusing on applications related to prosthetic hand control, grasp recognition, and human computer interaction. A comparison study is also given to show performance of various {EMG} signal analysis methods. This paper provides researchers a good understanding of {EMG} signal and its analysis procedures. This knowledge will help them develop more powerful, flexible, and efficient applications.",
@@ -87,7 +91,8 @@
         "type": "article",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1455479/",
         "urldate": "2026-05-09",
-        "volume": "8"
+        "volume": "8",
+        "year": "2006"
     },
     "wang_bscal_2025": {
         "abstract": "Background Surface electromyography ({sEMG}) enables gesture recognition for rehabilitation and human-computer interaction but faces challenges from noise, inter-subject variability, and limited motion dynamics characterisation. Methods We propose {BSCAL}, a dual-stream network integrating {sEMG} and inertial measurement unit ({IMU}) signals. The architecture combines convolutional neural networks ({CNNs}), long short-term memory ({LSTM}) networks, and spatiotemporal attention to process eight-channel {sEMG} and six-channel {IMU} data from 20 participants performing six gestures. Kalman filtering, Z-score normalisation, and gated fusion optimise multimodal feature integration. Results {BSCAL} achieved 90.41\\% \u00b1 1.54\\% recognition accuracy, surpassing single-modality models and state-of-the-art approaches. Ablation studies validated contributions from {CNN} (local features), {LSTM} (temporal dependencies), and attention (key feature enhancement). Conclusions By synergistically integrating neuromuscular patterns from {EMG} and kinematic data from {IMU}, {BSCAL} delivers a precise and scalable solution for gesture recognition, thereby advancing the development of wearable hand rehabilitation robots and assistive technologies for motor function recovery.",
@@ -108,7 +113,8 @@
         "type": "article",
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.70115",
         "urldate": "2026-05-10",
-        "volume": "21"
+        "volume": "21",
+        "year": "2025"
     },
     "wang_wearable_2023": {
         "abstract": "Wearable sensors for activity monitoring currently are being designed and developed, driven by an increasing demand in health care for noninvasive patient monitoring and rehabilitation training. This article reviews state-of-the-art wearable sensors for activity monitoring and motion control. Different technologies, including electromechanical, bioelectrical, and biomechanical sensors, are reviewed, along with their broad applications. Moreover, an overview of existing commercial wearable products and the computation methods for motion analysis are provided. Future research issues are identified and discussed.",
@@ -127,7 +133,8 @@
         "type": "article",
         "url": "https://www.sciencedirect.com/science/article/pii/S2667379723000037",
         "urldate": "2026-05-09",
-        "volume": "3"
+        "volume": "3",
+        "year": "2023"
     },
     "xu_transferable_2024": {
         "abstract": "Objective. Recent studies have shown that integrating inertial measurement unit ({IMU}) signals with surface electromyographic ({sEMG}) can greatly improve hand gesture recognition ({HGR}) performance in applications such as prosthetic control and rehabilitation training. However, current deep learning models for multimodal {HGR} encounter difficulties in invasive modal fusion, complex feature extraction from heterogeneous signals, and limited inter-subject model generalization. To address these challenges, this study aims to develop an end-to-end and inter-subject transferable model that utilizes non-invasively fused {sEMG} and acceleration ({ACC}) data. Approach. The proposed non-invasive modal fusion-transformer ({NIMFT}) model utilizes 1D-convolutional neural networks-based patch embedding for local information extraction and employs a multi-head cross-attention ({MCA}) mechanism to non-invasively integrate {sEMG} and {ACC} signals, stabilizing the variability induced by {sEMG}. The proposed architecture undergoes detailed ablation studies after hyperparameter tuning. Transfer learning is employed by fine-tuning a pre-trained model on new subject and a comparative analysis is performed between the fine-tuning and subject-specific model. Additionally, the performance of {NIMFT} is compared to state-of-the-art fusion models. Main results. The {NIMFT} model achieved recognition accuracies of 93.91\\%, 91.02\\%, and 95.56\\% on the three action sets in the Ninapro {DB}2 dataset. The proposed embedding method and {MCA} outperformed the traditional invasive modal fusion transformer by 2.01\\% (embedding) and 1.23\\% (fusion), respectively. In comparison to subject-specific models, the fine-tuning model exhibited the highest average accuracy improvement of 2.26\\%, achieving a final accuracy of 96.13\\%. Moreover, the {NIMFT} model demonstrated superiority in terms of accuracy, recall, precision, and F1-score compared to the latest modal fusion models with similar model scale. Significance. The {NIMFT} is a novel end-to-end {HGR} model, utilizes a non-invasive {MCA} mechanism to integrate long-range intermodal information effectively. Compared to recent modal fusion models, it demonstrates superior performance in inter-subject experiments and offers higher training efficiency and accuracy levels through transfer learning than subject-specific approaches.",
@@ -146,7 +153,8 @@
         "type": "article",
         "url": "https://doi.org/10.1088/1741-2552/ad39a5",
         "urldate": "2026-05-10",
-        "volume": "21"
+        "volume": "21",
+        "year": "2024"
     },
     "zhang_comprehensive_2026": {
         "abstract": "This review provides a comprehensive analysis of {sEMG}-{IMU} sensor fusion techniques for upper limb movement pattern recognition. It offers detailed insights into the signal generation mechanisms of both surface electromyography ({sEMG}) and inertial measurement units ({IMU}), and critically explores multisensory fusion strategies aimed at enhancing recognition accuracy and reliability. Key stages in the pattern recognition process, including signal acquisition, signal pre-processing, feature extraction and learning, are systematically examined. Significant advancements in tasks including hand gesture recognition ({HGR}), hand sign language recognition ({HSLR}), human activity recognition ({HAR}), joint angle estimation ({JAE}), and force/torque estimation ({FE}/{TE}) are discussed, emphasizing the role of {sEMG}-{IMU} integration in achieving improved performance. The review further explores the practical applications of these technologies in areas such as rehabilitation, prosthetic control, and human\u2013machine interaction ({HMI}). Finally, this review identifies the main challenges in {sEMG}-{IMU} sensor fusion and proposed potential future research directions, focusing on overcoming current limitations and advancing the development of more robust and accurate sensor fusion models.",
@@ -163,7 +171,8 @@
         "type": "article",
         "url": "https://linkinghub.elsevier.com/retrieve/pii/S1566253525004956",
         "urldate": "2026-05-09",
-        "volume": "125"
+        "volume": "125",
+        "year": "2026"
     },
     "zhang_editorial_2025": {
         "abstract": "Wearable devices and related technologies have become deeply embedded in daily life. From consumer electronics to healthcare and industrial automation, wearables are now ubiquitous, enabling seamless interaction between humans and machines and fundamentally transforming modern lifestyles (Ates et al., 2022) as depicted in Figure 1. Devices such as smartwatches, intelligent armbands and gloves, smart insoles, and {VR} headsets are increasingly popular to support fitness, healthcare, and telepresence operations. At the same time, personalized wearable robots, including exoskeletons, prosthetic limbs, and supernumerary robotic arms, provide real-time physical support for rehabilitation, human motor restoration, and enhancement of capabilities. By inferring human intentions and interpreting behavioral and physiological signals, these systems are reshaping the foundations of human-robot interaction and collaboration. With the rise of concepts such as human-centered design (Boy, 2017;Wang et al., 2024) and Tri-cobots (coexisting-cooperative-cognitive robots) (Ding et al., 2018;Rahman et al., 2024), the development of wearable technologies has been accelerating. This Research Topic has been launched to bring together the latest theoretical advancements and experimental progress across mechanical design, intelligent control and planning, machine learning algorithms, and innovative applications in the field of wearables for human-robot interaction. A total of eight manuscripts were submitted, of which four were accepted after a thorough peer-review process. The",
@@ -181,6 +190,7 @@
         "type": "article",
         "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1753153/full",
         "urldate": "2026-05-09",
-        "volume": "12"
+        "volume": "12",
+        "year": "2025"
     }
 };

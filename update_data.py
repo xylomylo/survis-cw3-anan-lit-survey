@@ -50,6 +50,8 @@ def parseBibtex(bibFile):
                         parsedData[currentId][field] = parsedData[currentId][field] + " " + value
                     else:
                         parsedData[currentId][field] = value
+                    if field == "date" and "year" not in parsedData[currentId]:
+                        parsedData[currentId]["year"] = value.split("-")[0]
                     lastField = field
                 else:
                     if lastField in parsedData[currentId]:
