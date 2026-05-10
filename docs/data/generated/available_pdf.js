@@ -1,0 +1,1 @@
+const availablePdf = ["zhang_comprehensive_2026","zhang_editorial_2025","li_semg_2023","raez_techniques_2006","mu_recent_2025","wang_wearable_2023","alfaro_user-independent_2022","wang_bscal_2025","xu_transferable_2024","digo_narrative_2022"];
